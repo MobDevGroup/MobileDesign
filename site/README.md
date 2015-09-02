@@ -71,6 +71,8 @@
 
  > [iconfont](http://iconfont.cn/)：阿里巴巴矢量图标库。
 
+ > [icons8](https://icons8.com/)：图标搜索库。
+
 * ### 设计导航站
   [设计网址导航](http://hao.zlg.cc/)
   > 搜集了大量的国内外设计网站，以及设计团队和设计公司。
