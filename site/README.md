@@ -29,6 +29,9 @@
 * ### [materialup](http://www.materialup.com/)
 > 一个专门介绍Material Design的设计网站，里面有很多不错的关于MD的设计。
 
+* ### [materialpalette](http://www.materialpalette.com/)
+> 一个Material Design Color Palette 生成器，专用的在线配色工具。
+
 * ### [freebbble](http://freebbble.com/)
 > 网站搜集了来自 Dribbble 的免费素材。
 
