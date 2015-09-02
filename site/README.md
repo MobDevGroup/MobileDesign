@@ -32,6 +32,21 @@
 * ### [materialpalette](http://www.materialpalette.com/)
 > 一个Material Design Color Palette 生成器，专用的在线配色工具。
 
+* ### [calltoidea](http://www.calltoidea.com/)
+> 在网页设计中我们经常会设计一些组件元素，比如注册表单、按钮、Tab选项卡、网站导航等等，虽然是小元素，但有时候却想不到要怎么排版、设计才好,那这个网站可以帮到你。
+
+* ### [lollytin](http://lollyt.in/)
+> lollytin是一个专门制作Bootstrap3模板的在线工具，有了它，用户不需要懂HTML代码和CSS样式就能制作一个流行的网站出来。你可以在几分钟内出一个BS模板，并且是HTML网页格式，最终用户只需要替换上自己的图像和文字即可。
+
+* ### [优设网](http://www.uisdc.com/)
+> 国内知名的网页设计师学习平台。
+
+* ### [花瓣网](http://huaban.com/)
+> 国内知名的素材网站。
+
+* ### [堆糖网](http://www.duitang.com/)
+> 收集并分享网络上的图片和商品
+
 * ### [freebbble](http://freebbble.com/)
 > 网站搜集了来自 Dribbble 的免费素材。
 
@@ -62,3 +77,6 @@
 
   [设计导航](http://hao.shejidaren.com/)
   > 有团队、书籍、素材、工具、配色等导航站点。
+
+  [设计师网址导航](http://hao.uisdc.com/)
+  >设计师使用的导航站
