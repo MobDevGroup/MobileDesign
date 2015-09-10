@@ -56,29 +56,37 @@
 * ### [pixelbuddha](http://pixelbuddha.net/)
 > 为专业人士准备的设计素材，有免费的好资源，也有收费的进阶版.
 
-* ### 图标
- > [easyicon](http://www.easyicon.net/)：图标搜索下载网站。
+### 图标
+* ### [easyicon](http://www.easyicon.net/)
+> 图标搜索下载网站。
 
- > [pixabay](https://pixabay.com/)：这里有可以在任何地方使用的免费高清图片。共有约400000张免费的照片、矢量文件和艺术插图，寻找免费且高质量的图片是件单调乏味的任务-主要是源于版权问题，署名要求或仅仅是因为图片质量不够。因此深受启发而创立了Pixabay-一间超高质量且无版权限制的图片的贮藏室。这里是设计师下载免费向量图，插图以及照片的最佳来源。
+* ###  [pixabay](https://pixabay.com/)
+> 这里有可以在任何地方使用的免费高清图片。共有约400000张免费的照片、矢量文件和艺术插图，寻找免费且高质量的图片是件单调乏味的任务-主要是源于版权问题，署名要求或仅仅是因为图片质量不够。因此深受启发而创立了Pixabay-一间超高质量且无版权限制的图片的贮藏室。这里是设计师下载免费向量图，插图以及照片的最佳来源。
 
- > [iconfinder](https://www.iconfinder.com/)：图标搜索下载网站。
+* ###  [iconfinder](https://www.iconfinder.com/)
+> 图标搜索下载网站。
 
- > [tinypng](https://tinypng.com/)：在线png图片压缩网站。
+* ### [tinypng](https://tinypng.com/)
+> 在线png图片压缩网站。
 
- > [iconstore](http://iconstore.co/)：这里可下载来自顶尖设计师设计的图标, 量非常多, 且全部免费。
+* ###  [iconstore](http://iconstore.co/)
+> 这里可下载来自顶尖设计师设计的图标, 量非常多, 且全部免费。
 
- > [androidicons](http://www.androidicons.com/)：Android图标素材下载站。这里可以找到你所需要的大部分图标。
+* ###  [androidicons](http://www.androidicons.com/)
+> Android图标素材下载站。这里可以找到你所需要的大部分图标。
 
- > [iconfont](http://iconfont.cn/)：阿里巴巴矢量图标库。
+* ### [iconfont](http://iconfont.cn/)
+> 阿里巴巴矢量图标库。
 
- > [icons8](https://icons8.com/)：图标搜索库。
+* ### [icons8](https://icons8.com/)
+> 图标搜索库。
 
-* ### 设计导航站
-  [设计网址导航](http://hao.zlg.cc/)
-  > 搜集了大量的国内外设计网站，以及设计团队和设计公司。
+### 设计导航站
+* ### [设计网址导航](http://hao.zlg.cc/)
+> 搜集了大量的国内外设计网站，以及设计团队和设计公司。
 
-  [设计导航](http://hao.shejidaren.com/)
-  > 有团队、书籍、素材、工具、配色等导航站点。
+* ### [设计导航](http://hao.shejidaren.com/)
+> 有团队、书籍、素材、工具、配色等导航站点。
 
-  [设计师网址导航](http://hao.uisdc.com/)
-  >设计师使用的导航站
+* ### [设计师网址导航](http://hao.uisdc.com/)
+>设计师使用的导航站
