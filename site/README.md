@@ -1,4 +1,11 @@
 ## 移动设计资源站
+
+* ### [colorhunt](http://www.colorhunt.co/)
+> 色彩搭配站
+
+* ### [Product Hunt](https://www.producthunt.com/)
+> 热门新应用的风向标,其风格有点类似于 Reddit+Hacker News 的混合体。它解决了三类用户的痛点问题：用户头疼 app 海洋里面哪个比较好玩好用；投资者头疼如何先于别人找到金子；产品开发者发愁如何推销和改进自己。
+
 * ### [Dribbble](https://dribbble.com/)
 > 一个面向创作家、艺术工作者、设计师等创意类作品的人群，提供作品在线服务，供网友在线查看已经完成的作品或者正在创作的作品的交流网站。
 
