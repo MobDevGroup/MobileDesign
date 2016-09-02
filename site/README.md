@@ -1,6 +1,12 @@
 
 ### 移动设计资源站]
 
+#### [ui-cloud](http://ui-cloud.com/browse/)
+> UI设计资源站
+
+#### [brusheezy](https://www.brusheezy.com/)
+> 免费的PSD资源文件站
+
 #### [Gratisography](http://www.gratisography.com/)
 > 里面有很多时尚流行的照片，并且适合用在设计项目上。
 
